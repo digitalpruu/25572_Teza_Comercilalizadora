@@ -36,13 +36,13 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Teza Comercializadora se dedica a ofrecer una amplia gama de productos de belleza de alta calidad para satisfacer todas tus necesidades. Desde cosméticos hasta herramientas de cuidado personal, tenemos lo que necesitas para resaltar tu belleza natural.",
+        "description": "Teza Comercializadora se dedica a ofrecer una amplia gama de productos para el hogar y la industria con los que podrás personalizar los aromas de todos tus espacios son  de alta calidad para satisfacer todas tus necesidades.",
         "img": "/assets/images/Banner_2.png"
       },
       {
         "title": "Nuestra Misión",
-        "description": "Nuestra misión es proporcionarte soluciones eficaces y rápidas, para que siempre te sientas y te veas increíble.",
-        "img": "/assets/images/logo.png"
+        "description": "Nuestra misión es proporcionarte soluciones eficaces y rápidas, para que siempre te sientas a gusto en tus espacios.",
+        "img": "/assets/images/3.png"
       }
     ]
   },
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 318 780 11 40",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "Negocios.corporativos20@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "TEZA Comercial",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
