@@ -18,8 +18,8 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Teza ",
-    "subtitle": "Comercilalizadora",
+    "title": "TEZA Comercilal",
+    "subtitle": "",
     "description": "La solución que quiero Cuando la necesito",
     "img": "/assets/images/Banner_1.png",
     "primaryAction": {
@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Teza Comercializadora se dedica a ofrecer una amplia gama de productos para el hogar y la industria con los que podrás personalizar los aromas de todos tus espacios son  de alta calidad para satisfacer todas tus necesidades.",
+        "description": "TEZA Comercial se dedica a ofrecer una amplia gama de productos para el hogar y la industria con los que podrás personalizar los aromas de todos tus espacios son  de alta calidad para satisfacer todas tus necesidades.",
         "img": "/assets/images/Banner_2.png"
       },
       {
@@ -67,9 +67,10 @@
         "icon": "/assets/images/facebook.jpg"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Facebook Fan Page",
+        "description": "Teza Comercializadora",
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
