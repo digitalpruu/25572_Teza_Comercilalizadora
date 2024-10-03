@@ -64,13 +64,14 @@
       {
         "name": "Facebook",
         "description": "TEZA Comercial",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/profile.php?id=61565927704637&mibextid=kFxxJD"
       },
       {
         "name": "Facebook Fan Page",
         "description": "Teza Comercializadora",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/profile.php?id=61566569583933&mibextid=ZbWKwL"
       }
     ]
   },
