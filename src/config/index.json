@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Productos",
-        "description": "TEZA Comercial se dedica a ofrecer una amplia gama de productos para el hogar y la industria con los que podrás personalizar los aromas de todos tus espacios son  de alta calidad para satisfacer todas tus necesidades.",
+        "description": "TEZA COMERCIAL ofrece una amplia gama de productos para el hogar y la industria con los que podrás personalizar los aromas de todos tus espacios",
         "img": "/assets/images/Banner_2.png"
       },
       {
-        "title": "Nuestra Misión",
-        "description": "Nuestra misión es proporcionarte soluciones eficaces y rápidas, para que siempre te sientas a gusto en tus espacios.",
+        "title": "Nuestra Misión y Visión",
+        "description": "Proporsionarte soluciones eficaces para que siempre te sientas a gusto. Nuestra visión es ser los referentes número 1 en brindar soluciones integrales para tu hogar o industria",
         "img": "/assets/images/logo.png"
       }
     ]
@@ -49,7 +49,7 @@
   "features": {
     "title": "¡Contáctanos! ",
     "subtitle": "¡Estamos aquí para ayudarte!",
-    "description": "Si necesitas más información o quieres contratar alguno de nuestros servicios, no dudes en contactarnos. Estamos disponibles para resolver tus dudas y brindarte la mejor atención.",
+    "description": "Si quieres más información o deseas contratar alguno de nuestros servicios, no dudes en hacerlo",
     "items": [
       {
         "name": "Número",
@@ -69,7 +69,7 @@
       },
       {
         "name": "Facebook Fan Page",
-        "description": "Teza Comercializadora",
+        "description": "TEZA COMERCIAL",
         "icon": "/assets/images/facebook.jpg",
         "url":"https://www.facebook.com/profile.php?id=61566569583933&mibextid=ZbWKwL"
       }
